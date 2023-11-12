@@ -13,6 +13,6 @@ function createImage(path){
     })
   })
 }
-createImage('https://wallpapercave.com/wp/wp12458198.jpg').then(img=>{
+createImage('https://wallpapercave.com/wp/wp12558476.jpg').then(img=>{
   console.log('loaded')
 }).catch(err=>console.log('image not found'));
